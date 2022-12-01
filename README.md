@@ -1,6 +1,13 @@
 # Snakes-in-Unity
-JAVA MINOR PROJECT.
-Technologies Used are: Core Java(Swing, AWT) 
+
+JAVA PROJECT.
+
+Technologies Used are: 
+
+Core Java(Swing, AWT) 
+
 IDE: Intellij
 
-This project is based on typical snake game which we used to play in mobile.
+This project based on snake game, which we love to play in our childhood.
+
+
